@@ -39,6 +39,7 @@ The dashboard explores:
 <p align="center">
   <img src="netflix-dashboard.png" width="100%" alt="Netflix Data Analytics Power BI Dashboard">
 </p>
+
 ---
 
 <p align="center">
