@@ -36,8 +36,9 @@ The dashboard explores:
 
 ### 📊 Dashboard Preview
 
-> Dashboard screenshot will be added here.
-
+<p align="center">
+  <img src="netflix-dashboard.png" width="100%" alt="Netflix Data Analytics Power BI Dashboard">
+</p>
 ---
 
 <p align="center">
